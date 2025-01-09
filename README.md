@@ -21,7 +21,7 @@ To contribute:
 | Name | Location | Application Status | Notes | Date Posted | Deadline |
 | ---- | -------- | ----------------- | ----- | ----------- | --------- |
 | [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |  Deadline Date |
-| [City of Edmonton](https://edmonton.taleo.net/careersection/2/jobdetail.ftl?jobsource=LinkedIn&src=SNS-102&job=506033) |Edmonton,AB,Canada| Open ✅ | Multiple Intern Positions: Software Development, Data Science, Business Analytics, etc, May 2025 4/8 months (Co-op only) | January 6, 2025 | January 26, 2025 🔐👀 |
+| [City of Edmonton](https://edmonton.taleo.net/careersection/2/jobdetail.ftl?jobsource=LinkedIn&src=SNS-102&job=506033) |Edmonton,AB,Canada| Open ✅ | Multiple Intern Positions: Software Development, Data Science, Business Analytics May 2025 4/8 months (Co-op only) | January 6, 2025 | January 26, 2025 🔐👀 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Developer-Intern-Co-op--Summer-2025-_R_1386743?source=Linkedin) | Toronto, Ontario, Canada (Hybrid) | Open ✅ | Software Developer Intern/Co-op - Summer 2025 ($46,000/yr) | January 6, 2025 | January 30, 2025 🔐👀 |
 | [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer--Summer-2025--Co-op-Internship----4-Months_R240026799-1?source=Social_Linkedin) | Toronto, ON, Canada | Open ✅ | Software Developer, Summer 2025 (Co-op/Internship) - 4 Months | January 6, 2025 | January 24, 2025 🔐👀 |
 | [Whatnot](https://job-boards.greenhouse.io/whatnot/jobs/5247639004) | Remote (US, Canada) | Open ✅ | Software Engineer Intern - Summer 2025 | Date Posted Unknown 🔐👀 | Deadline Unknown 🔐👀 |
